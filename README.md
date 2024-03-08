@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/Logo.png" align="center" style="width: 30%" />
 </div>
 
