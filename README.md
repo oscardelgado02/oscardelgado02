@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/Logo.png" align="center" style="width: 100%" />
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/Logo.png" align="center" style="width: 20%" />
 </div>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Óscar
