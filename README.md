@@ -13,6 +13,46 @@
   </a>
 </p>
 
+## Cool projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">AI NPC in VR Prototype</h3>
+<div align="center">
+<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/AI%20NPC%20VR%20Preview.PNG" width="400" alt="AI NPC in VR Prototype"></a>
+<p>
+<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/tXMaLYxqlgg" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>VR prototype developed in Unity where the user can talk to an AI-driven NPC (ChatGPT API).</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<br>
+<h3 align="center">Get The Star - CPP 2D Game</h3>
+<div align="center">                                       
+<a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/GetTheStars%20Preview.png" width="400" alt="Get The Star - CPP 2D Game"></a>
+<br>
+<p>
+<a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/VLxLxFggqng" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Get The Star is a 2D game DEMO made entirely with C++ where you need to play with gravity and magnetic forces to complete levels.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats:
 ![oscardelgado02's Stats](https://github-readme-stats.vercel.app/api?username=oscardelgado02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![oscardelgado02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscardelgado02&theme=tokyonight&hide_border=true)
