@@ -1,17 +1,10 @@
-<div align="left">
-<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/Banner.png" align="center" style="width: 80%" />
-</div>
-
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Óscar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A8FF&random=false&width=600&height=100&lines=Computer+Engineer+focused+on+software+development;Background+on+Unity+and+XR+experiences)](https://git.io/typing-svg)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> My Tech Stack:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,vscode,godot,cpp,c,git,github,py,pytorch,sklearn,tensorflow,java,clion,pycharm,anaconda,aws,bitbucket,css,eclipse,html,js,matlab,mysql&perline=5" />
-  </a>
-</p>
+<div align="center">
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/Banner.png" align="center" style="width: 80%" />
+</div>
 
 ## Cool projects
 <table>
@@ -88,6 +81,13 @@
 </table>                                                                                 
 </div>
 <br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> My Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,vscode,godot,cpp,c,git,github,py,pytorch,sklearn,tensorflow,java,clion,pycharm,anaconda,aws,bitbucket,css,eclipse,html,js,matlab,mysql&perline=5" />
+  </a>
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats:
 ![oscardelgado02's Stats](https://github-readme-stats.vercel.app/api?username=oscardelgado02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
