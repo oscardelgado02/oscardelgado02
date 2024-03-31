@@ -17,38 +17,74 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">AI NPC in VR Prototype</h3>
+<h3 align="center">DragonIce</h3>
 <div align="center">
-<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/AI%20NPC%20VR%20Preview.PNG" width="400" alt="AI NPC in VR Prototype"></a>
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/DragonIce%20Preview.png" width="400" alt="DragonIce">
 <p>
-<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/tXMaLYxqlgg" target="_blank">
+<a href="https://youtu.be/hBnF9VRsook" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>VR prototype developed in Unity where the user can talk to an AI-driven NPC (ChatGPT API).</p>
+<p>DragonIce is a Full Body Interaction experience that works in the FuBIntLab (Universitat Pompeu Fabra) Mixed Reality environment. It was designed to promote and evaluate prosocial behavior in children with autism.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
 <br>
-<h3 align="center">Get The Star - CPP 2D Game</h3>
+<h3 align="center">AI NPC in VR Prototype</h3>
 <div align="center">                                       
-<a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/GetTheStars%20Preview.png" width="400" alt="Get The Star - CPP 2D Game"></a>
+<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/AI%20NPC%20VR%20Preview.PNG" width="400" alt="AI NPC in VR Prototype"></a>
 <br>
 <p>
-<a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank">
+<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/VLxLxFggqng" target="_blank">
+<a href="https://youtu.be/tXMaLYxqlgg" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Get The Star is a 2D game DEMO made entirely with C++ where you need to play with gravity and magnetic forces to complete levels.</p>
+</p>VR prototype developed in Unity where the user can talk to an AI-driven NPC (ChatGPT API).</p>
 </div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Get The Star - CPP 2D Game</h3>
+<div align="center">                                       
+<a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/GetTheStars%20Preview.png" width="400" alt="Get The Star - CPP 2D Game"></a>
+<p>
+<a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/VLxLxFggqng" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Get The Star is a 2D game DEMO made entirely with C++ where you need to play with gravity and magnetic forces to complete levels.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Stalkers - CPP 3D Game</h3>
+<div align="center">
+<a href="https://github.com/oscardelgado02/Stalkers---CPP-3D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/Stalkers%20Preview.png" width="400" alt="Stalkers - CPP 3D Game"></a>
+<p>
+<a href="https://github.com/oscardelgado02/Stalkers---CPP-3D-Game" target="_blank">
+<img src="https://img.shields.io/badge/CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/XAfQ3jLxYSo" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Stalkers is a 3D game DEMO made entirely with C++ where you need to find the exit gate to scape from a village that is full of monsters.</p>
+</div>
+                                                                                      
+</td>  
 </table>                                                                                 
 </div>
 <br>
