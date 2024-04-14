@@ -228,9 +228,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Face Dataset - 2400 IMG and 80 LABELS<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
-  </a></h3>
+<h3 align="center">Face Dataset - 2400 IMG and 80 LABELS</h3>
 <div align="center">
 <a href="https://github.com/oscardelgado02/Face-Dataset---2400-IMG-and-80-LABELS" target="_blank"><img src="images/FaceDataset2400IMG80LABELS-Preview.png" width="400" alt="Face Dataset - 2400 IMG and 80 LABELS"></a>
 <p>
