@@ -14,9 +14,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"><a href="https://skillicons.dev">
+<h3 align="center">DragonIce<br>
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio" />
-  </a><br>DragonIce<br></h3>
+  </a><br></h3>
 <div align="center">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce">
 <p>
@@ -31,7 +32,7 @@
 
 <td width="50%">
 <br>
-<h3 align="center">AI NPC in VR Prototype<br><br>
+<h3 align="center">AI NPC in VR Prototype<br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio" />
   </a><br></h3>
@@ -57,7 +58,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Get The Star - CPP 2D Game<br><br>
+<h3 align="center">Get The Star - CPP 2D Game<br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,vscode" />
   </a><br></h3>
@@ -77,7 +78,10 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Stalkers - CPP 3D Game</h3>
+<h3 align="center">Stalkers - CPP 3D Game<br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,vscode" />
+  </a><br></h3>
 <div align="center">
 <a href="https://github.com/oscardelgado02/Stalkers---CPP-3D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Stalkers%20Preview.png" width="400" alt="Stalkers - CPP 3D Game"></a>
 <p>
