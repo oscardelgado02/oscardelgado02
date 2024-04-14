@@ -14,10 +14,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">DragonIce<br><br>
-    <a href="https://skillicons.dev">
+<h3 align="center"><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio" />
-  </a></h3><br>
+  </a><br>DragonIce<br></h3>
 <div align="center">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce">
 <p>
@@ -32,7 +31,10 @@
 
 <td width="50%">
 <br>
-<h3 align="center">AI NPC in VR Prototype</h3>
+<h3 align="center">AI NPC in VR Prototype<br><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio" />
+  </a><br></h3>
 <div align="center">                                       
 <a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/AI%20NPC%20VR%20Preview.PNG" width="400" alt="AI NPC in VR Prototype"></a>
 <br>
@@ -55,7 +57,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Get The Star - CPP 2D Game</h3>
+<h3 align="center">Get The Star - CPP 2D Game<br><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,vscode" />
+  </a><br></h3>
 <div align="center">                                       
 <a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/GetTheStars%20Preview.png" width="400" alt="Get The Star - CPP 2D Game"></a>
 <p>
