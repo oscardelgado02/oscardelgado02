@@ -3,9 +3,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A8FF&random=false&width=600&height=100&lines=Computer+Engineer+focused+on+software+development;Background+on+Unity+and+XR+experiences" align="center" style="width: 80%" />
 </div>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A8FF&random=false&width=600&height=100&lines=Computer+Engineer+focused+on+software+development;Background+on+Unity+and+XR+experiences)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Banner.png" align="center" style="width: 80%" />
@@ -14,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,vscode,godot,cpp,c,git,github,py,pytorch,sklearn,tensorflow,java,clion,pycharm,anaconda,aws,bitbucket,css,eclipse,html,js,matlab,mysql&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,vscode,godot,cpp,c,git,github,py,pytorch,sklearn,tensorflow,java,clion,pycharm,anaconda,aws,bitbucket,css,eclipse,html,js,matlab,mysql&perline=10" />
   </a>
 </p>
 <br>
