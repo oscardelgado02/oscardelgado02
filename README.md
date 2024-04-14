@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">DragonIce
+<h3 align="center">DragonIce<br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio" />
   </a></h3>
