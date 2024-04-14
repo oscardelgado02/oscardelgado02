@@ -3,7 +3,10 @@
 </div>
 <br>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A8FF&random=false&width=600&height=100&lines=Computer+Engineer+focused+on+software+development;Background+on+Unity+and+XR+experiences)](https://git.io/typing-svg)
+</div>
+<br>
 
 <div align="center">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Banner.png" align="center" style="width: 80%" />
