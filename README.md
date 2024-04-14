@@ -14,7 +14,8 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">DragonIce <a href="https://skillicons.dev">
+<h3 align="center">DragonIce
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio" />
   </a></h3>
 <div align="center">
