@@ -30,7 +30,7 @@
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce">
 <p>
 <a href="https://youtu.be/hBnF9VRsook" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=535AF0">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=8353F0">
 </a>
 </p>
 <p>DragonIce is a Full Body Interaction experience that works in the FuBIntLab (Universitat Pompeu Fabra) Mixed Reality environment. It was designed to promote and evaluate prosocial behavior in children with autism.</p>
@@ -48,10 +48,10 @@
 <br>
 <p>
 <a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank">
-<img src="https://img.shields.io/badge/CODE-6BEFFC?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-8388F1?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/tXMaLYxqlgg" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=15BFED">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=535AF0">
 </a>
 </p>
 </p>VR prototype developed in Unity where the user can talk to an AI-driven NPC (ChatGPT API).</p>
@@ -70,7 +70,7 @@
 <a href="https://github.com/oscardelgado02/Build-a-rail" target="_blank"><img src="images/Build-a-rail-Preview.png" width="400" alt="Build a rail"></a>
 <p>
 <a href="https://github.com/oscardelgado02/Build-a-rail" target="_blank">
-<img src="https://img.shields.io/badge/CODE-6BFCD7?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-6BEFFC?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Build a rail is a full body interaction collaborative videogame which its main objective is removing all the obstacles from the path between the train and the next station and creating new rails to put them in the empty places. This Unity Project works in the Mixed Reality environment from UPF Barcelona.</p>
@@ -228,7 +228,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Face Dataset - 2400 IMG and 80 LABELS</h3>
+<h3 align="center">Face Dataset - 2400 IMG and 80 LABELS<br><br><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
+  </a></h3>
 <div align="center">
 <a href="https://github.com/oscardelgado02/Face-Dataset---2400-IMG-and-80-LABELS" target="_blank"><img src="images/FaceDataset2400IMG80LABELS-Preview.png" width="400" alt="Face Dataset - 2400 IMG and 80 LABELS"></a>
 <p>
