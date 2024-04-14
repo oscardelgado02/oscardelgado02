@@ -18,7 +18,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Cool projects:
 
-### XR experiences
+### 👓 XR experiences
 
 <table>
 <tr>
@@ -80,7 +80,7 @@
 </table>
 <br>
 
-### Videogames
+### 🎮 Videogames
 
 <table>
 <tr>
@@ -162,7 +162,7 @@
 </div>
 <br>
 
-### Deep Learning
+### 🧠 Deep Learning
 
 <table>
 <tr>
@@ -201,7 +201,7 @@
 </div>
 <br>
 
-### Web development
+### 💻 Web development
 
 <table>
 <tr>
@@ -223,7 +223,7 @@
 </table>
 <br>
 
-### Datasets
+### 💾 Datasets
 
 <table>
 <tr>
