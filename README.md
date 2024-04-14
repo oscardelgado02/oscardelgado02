@@ -9,12 +9,14 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Cool projects:
 
-### Unity XR
+### XR experiences
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">DragonIce</h3>
+<h3 align="center">DragonIce <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio" />
+  </a></h3>
 <div align="center">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce">
 <p>
@@ -47,42 +49,7 @@
 </div>
 <br>
 
-### Unity
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Metro Madness</h3>
-<div align="center">
-<a href="https://github.com/oscardelgado02/Metro-Madness" target="_blank"><img src="images/Metro-Madness-Preview.png" width="400" alt="Metro Madness"></a>
-<p>
-<a href="https://github.com/oscardelgado02/Metro-Madness" target="_blank">
-<img src="https://img.shields.io/badge/CODE-B8F05C?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Metro Madness is a game design project. The scripting is not as good as my recent projects (as it was one of my firsts Unity projects), but it is focused on the game design and finding a good ludonarrative harmony between the mechanics of the game and the message you want to share throught them.</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-<br>
-<h3 align="center">Sheep Rescue Mobile</h3>
-<div align="center">                                       
-<a href="https://github.com/oscardelgado02/SheepRescue-Mobile" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/SheepRescue-Mobile-Preview.png" width="400" alt="Sheep Rescue Mobile"></a>
-<br>
-<p>
-<a href="https://github.com/oscardelgado02/SheepRescue-Mobile" target="_blank">
-<img src="https://img.shields.io/badge/CODE-E3F05C?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Sheep Rescue game (Introduction to Unity Scripting tutorial) adapted to mobile controls.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-### C++
+### Videogames
 
 <table>
 <tr>
@@ -119,6 +86,39 @@
 </div>
                                                                                       
 </td>  
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Metro Madness</h3>
+<div align="center">
+<a href="https://github.com/oscardelgado02/Metro-Madness" target="_blank"><img src="images/Metro-Madness-Preview.png" width="400" alt="Metro Madness"></a>
+<p>
+<a href="https://github.com/oscardelgado02/Metro-Madness" target="_blank">
+<img src="https://img.shields.io/badge/CODE-B8F05C?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Metro Madness is a game design project. The scripting is not as good as my recent projects (as it was one of my firsts Unity projects), but it is focused on the game design and finding a good ludonarrative harmony between the mechanics of the game and the message you want to share throught them.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<br>
+<h3 align="center">Sheep Rescue Mobile</h3>
+<div align="center">                                       
+<a href="https://github.com/oscardelgado02/SheepRescue-Mobile" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/SheepRescue-Mobile-Preview.png" width="400" alt="Sheep Rescue Mobile"></a>
+<br>
+<p>
+<a href="https://github.com/oscardelgado02/SheepRescue-Mobile" target="_blank">
+<img src="https://img.shields.io/badge/CODE-E3F05C?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Sheep Rescue game (Introduction to Unity Scripting tutorial) adapted to mobile controls.</p>
+</div>                                                             
 </table>                                                                                 
 </div>
 <br>
