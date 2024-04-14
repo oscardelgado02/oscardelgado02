@@ -83,6 +83,39 @@
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Metro Madness</h3>
+<div align="center">
+<a href="https://github.com/oscardelgado02/Metro-Madness" target="_blank"><img src="images/Metro-Madness-Preview.png" width="400" alt="Metro Madness"></a>
+<p>
+<a href="https://github.com/oscardelgado02/Metro-Madness" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Metro Madness is a game design project. The scripting is not as good as my recent projects (as it was one of my firsts Unity projects), but it is focused on the game design and finding a good ludonarrative harmony between the mechanics of the game and the message you want to share throught them.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<br>
+<h3 align="center">Sheep Rescue Mobile</h3>
+<div align="center">                                       
+<a href="https://github.com/oscardelgado02/SheepRescue-Mobile" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/SheepRescue-Mobile-Preview.png" width="400" alt="Sheep Rescue Mobile"></a>
+<br>
+<p>
+<a href="https://github.com/oscardelgado02/SheepRescue-Mobile" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Sheep Rescue game (Introduction to Unity Scripting tutorial) adapted to mobile controls.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 ## 🛠️ My Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
