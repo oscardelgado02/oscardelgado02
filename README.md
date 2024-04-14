@@ -14,10 +14,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">DragonIce<br><br>
+<h3 align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio" />
-  </a></h3><br>
+  </a></h3><br>DragonIce<br>
 <div align="center">
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce">
 <p>
