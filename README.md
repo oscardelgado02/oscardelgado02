@@ -16,7 +16,7 @@
 <img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce">
 <p>
 <a href="https://youtu.be/hBnF9VRsook" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=1543ED">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=A353F0">
 </a>
 </p>
 <p>DragonIce is a Full Body Interaction experience that works in the FuBIntLab (Universitat Pompeu Fabra) Mixed Reality environment. It was designed to promote and evaluate prosocial behavior in children with autism.</p>
