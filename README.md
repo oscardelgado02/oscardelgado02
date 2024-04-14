@@ -14,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,vscode,godot,cpp,c,git,github,py,pytorch,sklearn,tensorflow,java,clion,pycharm,anaconda,aws,bitbucket,css,eclipse,html,js,matlab,mysql" />
   </a>
 </p>
-<br>
 
 <p align="center">
 <a href="https://linkedin.com/in/óscar-delgado-rueda-579834228" target="_blank">
