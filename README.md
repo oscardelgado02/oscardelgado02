@@ -1,4 +1,7 @@
+<div align="center">
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Óscar
+</div>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A8FF&random=false&width=600&height=100&lines=Computer+Engineer+focused+on+software+development;Background+on+Unity+and+XR+experiences)](https://git.io/typing-svg)
 
