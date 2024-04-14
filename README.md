@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A8FF&random=false&width=600&height=100&lines=Computer+Engineer+focused+on+software+development;Background+on+Unity+and+XR+experiences)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/Banner.png" align="center" style="width: 80%" />
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Banner.png" align="center" style="width: 80%" />
 </div>
 <br>
 
@@ -13,7 +13,7 @@
 <td width="50%">
 <h3 align="center">DragonIce</h3>
 <div align="center">
-<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/DragonIce%20Preview.png" width="400" alt="DragonIce">
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce">
 <p>
 <a href="https://youtu.be/hBnF9VRsook" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
@@ -28,7 +28,7 @@
 <br>
 <h3 align="center">AI NPC in VR Prototype</h3>
 <div align="center">                                       
-<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/AI%20NPC%20VR%20Preview.PNG" width="400" alt="AI NPC in VR Prototype"></a>
+<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/AI%20NPC%20VR%20Preview.PNG" width="400" alt="AI NPC in VR Prototype"></a>
 <br>
 <p>
 <a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank">
@@ -49,7 +49,7 @@
 <td width="50%">
 <h3 align="center">Get The Star - CPP 2D Game</h3>
 <div align="center">                                       
-<a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/GetTheStars%20Preview.png" width="400" alt="Get The Star - CPP 2D Game"></a>
+<a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/GetTheStars%20Preview.png" width="400" alt="Get The Star - CPP 2D Game"></a>
 <p>
 <a href="https://github.com/oscardelgado02/Get-The-Star---CPP-2D-Game" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -66,7 +66,7 @@
 <td width="50%">
 <h3 align="center">Stalkers - CPP 3D Game</h3>
 <div align="center">
-<a href="https://github.com/oscardelgado02/Stalkers---CPP-3D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/Stalkers%20Preview.png" width="400" alt="Stalkers - CPP 3D Game"></a>
+<a href="https://github.com/oscardelgado02/Stalkers---CPP-3D-Game" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Stalkers%20Preview.png" width="400" alt="Stalkers - CPP 3D Game"></a>
 <p>
 <a href="https://github.com/oscardelgado02/Stalkers---CPP-3D-Game" target="_blank">
 <img src="https://img.shields.io/badge/CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
