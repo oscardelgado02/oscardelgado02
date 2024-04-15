@@ -219,7 +219,7 @@
 <a href="https://github.com/oscardelgado02/Twitter-Lands" target="_blank"><img src="images/Twitter-Lands-Preview.png" width="400" alt="Twitter Lands"></a>
 <p>
 <a href="https://github.com/oscardelgado02/Twitter-Lands" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F2835A?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-D8854C?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Twitter Lands is a web page project that is really similar to Twitter, but it is organized by countries and users can add events and recommendations to each country.</p>
@@ -292,7 +292,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,vscode" />
   </a><br></h3>
 <div align="center">                                       
-<a href="https://github.com/oscardelgado02/CPP-Solution-For-Visual-Studio-Code" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Signal-Detection-and-Classification-DL-Model-Preview.png" width="400" alt="CPP Solution For Visual Studio Code"></a>
+<a href="https://github.com/oscardelgado02/CPP-Solution-For-Visual-Studio-Code" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/CPP-Solution-For-Visual-Studio-Code-Preview.png" width="400" alt="CPP Solution For Visual Studio Code"></a>
 <br>
 <p>
 <a href="https://github.com/oscardelgado02/CPP-Solution-For-Visual-Studio-Code" target="_blank">
