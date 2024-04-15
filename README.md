@@ -231,6 +231,67 @@
 </table>
 <br>
 
+### 🛠 Unity Tools for development
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Auto Speech Recorder For Unity<br><br><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
+  </a><br></h3>
+<div align="center">
+<a href="https://github.com/oscardelgado02/Auto-Speech-Recorder-For-Unity" target="_blank"><img src="images/Auto-Speech-Recorder-For-Unity-Preview.png" width="400" alt="Auto Speech Recorder For Unity"></a>
+<p>
+<a href="https://github.com/oscardelgado02/Auto-Speech-Recorder-For-Unity" target="_blank">
+<img src="https://img.shields.io/badge/CODE-F25A5A?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>An easy to use tool to automatically detect and record speech in Unity.</p>
+</div>
+                                                                                      
+</td>
+</table>
+<br>
+
+### ⌨ Code templates
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">VR Unity Template<br><br><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
+  </a><br></h3>
+<div align="center">
+<a href="https://github.com/oscardelgado02/VR-Unity-Template" target="_blank"><img src="images/VR-Unity-Template-Preview.png" width="400" alt="VR Unity Template"></a>
+<p>
+<a href="https://github.com/oscardelgado02/VR-Unity-Template" target="_blank">
+<img src="https://img.shields.io/badge/CODE-F182A9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Unity Template to start developing a VR application.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<br>
+<h3 align="center">CPP Solution For Visual Studio Code<br><br><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,vscode" />
+  </a><br></h3>
+<div align="center">                                       
+<a href="https://github.com/oscardelgado02/CPP-Solution-For-Visual-Studio-Code" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Signal-Detection-and-Classification-DL-Model-Preview.png" width="400" alt="CPP Solution For Visual Studio Code"></a>
+<br>
+<p>
+<a href="https://github.com/oscardelgado02/CPP-Solution-For-Visual-Studio-Code" target="_blank">
+<img src="https://img.shields.io/badge/CODE-F182C7?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>A working solution for Visual Studio Code to start programming in C++.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 ### 💾 Datasets
 
 <table>
@@ -241,7 +302,7 @@
 <a href="https://github.com/oscardelgado02/Face-Dataset---2400-IMG-and-80-LABELS" target="_blank"><img src="images/FaceDataset2400IMG80LABELS-Preview.png" width="400" alt="Face Dataset - 2400 IMG and 80 LABELS"></a>
 <p>
 <a href="https://github.com/oscardelgado02/Face-Dataset---2400-IMG-and-80-LABELS" target="_blank">
-<img src="https://img.shields.io/badge/LINK-F25A5A?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/LINK-E282F1?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Manually created and cropped dataset of 2400 images, 30 from each class, where each class is a famous person.</p>
