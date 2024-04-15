@@ -239,7 +239,7 @@
 <a href="https://github.com/oscardelgado02/Auto-Speech-Recorder-For-Unity" target="_blank"><img src="images/Auto-Speech-Recorder-For-Unity-Preview.png" width="400" alt="Auto Speech Recorder For Unity"></a>
 <p>
 <a href="https://github.com/oscardelgado02/Auto-Speech-Recorder-For-Unity" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F25A5A?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-F2715A?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>An easy to use tool to automatically detect and record speech in Unity.</p>
@@ -257,7 +257,7 @@
 <br>
 <p>
 <a href="https://gist.github.com/oscardelgado02/ade5e3bce3e1863d94d75813bcfec2cf" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F25A81?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-F25A5A?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Unity Script to create and manage multiple timers.</p>
