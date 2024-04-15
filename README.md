@@ -83,8 +83,6 @@
 </p>
 <p>Build a rail is a full body interaction collaborative videogame which its main objective is removing all the obstacles from the path between the train and the next station and creating new rails to put them in the empty places. This Unity Project works in the Mixed Reality environment from UPF Barcelona.</p>
 </div>
-                                                                                      
-</td>
 </table>
 <br>
 
@@ -226,8 +224,6 @@
 </p>
 <p>Twitter Lands is a web page project that is really similar to Twitter, but it is organized by countries and users can add events and recommendations to each country.</p>
 </div>
-                                                                                      
-</td>
 </table>
 <br>
 
@@ -250,7 +246,24 @@
 </div>
                                                                                       
 </td>
-</table>
+
+<td width="50%">
+<br>
+<h3 align="center">Timers for Unity<br><br><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
+  </a><br></h3>
+<div align="center">                                       
+<a href="https://gist.github.com/oscardelgado02/ade5e3bce3e1863d94d75813bcfec2cf" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Timers-for-Unity-Preview.png" width="400" alt="Timers for Unity"></a>
+<br>
+<p>
+<a href="https://gist.github.com/oscardelgado02/ade5e3bce3e1863d94d75813bcfec2cf" target="_blank">
+<img src="https://img.shields.io/badge/CODE-F25A81?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Unity Script to create and manage multiple timers.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
 <br>
 
 ### ⌨ Code templates
@@ -307,8 +320,6 @@
 </p>
 <p>Manually created and cropped dataset of 2400 images, 30 from each class, where each class is a famous person.</p>
 </div>
-                                                                                      
-</td>
 </table>
 <br>
 
