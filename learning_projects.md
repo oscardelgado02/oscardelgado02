@@ -4,7 +4,7 @@
 <tr>
 <td width="50%">
 <div align="left">
-  <div align="left">
+  <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cmake,cpp,vscode"/>
     </a>
