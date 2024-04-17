@@ -8,7 +8,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cmake,cpp,vscode" />
     </a>
-    <a href="https://github.com/oscardelgado02/Introduction-to-Google-Test-and-CMake" target="_blank" style="vertical-align: middle;">
+    <a href="https://github.com/oscardelgado02/Introduction-to-Google-Test-and-CMake" target="_blank" style="vertical-align: top;">
       Introduction to Google Test and CMake
     </a>
   </h3>
