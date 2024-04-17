@@ -4,11 +4,9 @@
 <tr>
 <td width="50%">
 <div align="left">
-  <div align="center">
-    <a href="https://skillicons.dev" style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=cmake,cpp,vscode" style="vertical-align: middle; margin-right: 10px;" />
+  <a href="https://skillicons.dev" align="center">
+      <img src="https://skillicons.dev/icons?i=cmake,cpp,vscode"/>
     </a>
-  </div>
   <div style="display: inline-block; vertical-align: middle;">
     <h3>
       <a href="https://github.com/oscardelgado02/Introduction-to-Google-Test-and-CMake" target="_blank">
