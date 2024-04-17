@@ -10,12 +10,12 @@
         Introduction to Google Test and CMake
       </a>
     </h3>
+    <div align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cmake,cpp,vscode"/>
+      </a>
+    </div>
     <p>Self-learning project to introduce to Google Test and CMake.</p>
-  </div>
-  <div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cmake,cpp,vscode"/>
-    </a>
   </div>
 </div>
 </td>
