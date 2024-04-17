@@ -6,7 +6,7 @@
 <div align="left">
   <h3>
       <a href="https://skillicons.dev" style="display: inline-block;">
-        <img src="https://skillicons.dev/icons?i=cmake,cpp,vscode" style="vertical-align: middle; margin-top: 50px;" />
+        <img src="https://skillicons.dev/icons?i=cmake,cpp,vscode" style="vertical-align: top;" />
       </a>
       <a href="https://github.com/oscardelgado02/Introduction-to-Google-Test-and-CMake" target="_blank" style="display: inline-block; vertical-align: middle;">
         Introduction to Google Test and CMake
