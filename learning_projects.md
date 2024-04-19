@@ -18,6 +18,27 @@
     </a>
   </div>
 </div>
+                                                                                      
 </td>
-</tr>
-</table>
+
+<td width="50%">
+<br>
+<div align="left">
+  <div style="display: inline-block; vertical-align: middle;">
+    <h3>
+      <a href="https://github.com/oscardelgado02/Introduction-to-dotnet" target="_blank">
+        Introduction to .NET
+      </a>
+    </h3>
+    <p>Self-learning project to introduce to .NET with C#.</p>
+  </div>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,vscode"/>
+    </a>
+  </div>
+</div>
+</td>                                                            
+</table>                                                                                 
+</div>
+<br>
