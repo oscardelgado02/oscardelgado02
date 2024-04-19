@@ -30,7 +30,7 @@
         Introduction to .NET
       </a>
     </h3>
-    <p>Self-learning project to introduce to .NET with C#.</p>
+    <p>Self-learning project (Microsoft Learn) to introduce to .NET with C#.</p>
   </div>
   <div align="center">
     <a href="https://skillicons.dev">
