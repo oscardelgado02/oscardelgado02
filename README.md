@@ -330,4 +330,4 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats:
 ![oscardelgado02's Stats](https://github-readme-stats.vercel.app/api?username=oscardelgado02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![oscardelgado02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscardelgado02&theme=tokyonight&hide_border=true)
-![oscardelgado02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscardelgado02&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<!--![oscardelgado02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscardelgado02&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)-->
