@@ -42,10 +42,10 @@
 <a href="http://hdl.handle.net/10230/58086" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce"></a>
 <p>
 <a href="http://hdl.handle.net/10230/58086" target="_blank">
-<img src="https://img.shields.io/badge/DOCUMENT-A580FA?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/DOCUMENT-A580FA?style=for-the-badge">
 </a>
 <a href="https://youtu.be/hBnF9VRsook" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=8353F0">
+<img src="https://img.shields.io/badge/VIDEO-8353F0?style=for-the-badge&logo=youtube&logoColor=black">
 </a>
 </p>
 <p>DragonIce is a Full Body Interaction experience that works in the FuBIntLab (Universitat Pompeu Fabra) Mixed Reality environment. It was designed to promote and evaluate prosocial behavior in children with autism.</p>
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/CODE-8388F1?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/tXMaLYxqlgg" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=535AF0">
+<img src="https://img.shields.io/badge/VIDEO-535AF0?style=for-the-badge&logo=youtube&logoColor=black">
 </a>
 </p>
 </p>VR prototype developed in Unity where the user can talk to an AI-driven NPC (ChatGPT API).</p>
@@ -108,7 +108,7 @@
 <img src="https://img.shields.io/badge/CODE-72F5CF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/VLxLxFggqng" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=20D6A1">
+<img src="https://img.shields.io/badge/VIDEO-20D6A1?style=for-the-badge&logo=youtube&logoColor=black">
 </a>
 </p>
 <p>Get The Star is a 2D game DEMO made entirely with C++ where you need to play with gravity and magnetic forces to complete levels.</p>
@@ -127,7 +127,7 @@
 <img src="https://img.shields.io/badge/CODE-81EE98?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/XAfQ3jLxYSo" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=22DD49">
+<img src="https://img.shields.io/badge/VIDEO-22DD49?style=for-the-badge&logo=youtube&logoColor=black">
 </a>
 </p>
 <p>Stalkers is a 3D game DEMO made entirely with C++ where you need to find the exit gate to scape from a village that is full of monsters.</p>
