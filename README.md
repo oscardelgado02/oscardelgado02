@@ -39,8 +39,11 @@
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
   </a><br></h3>
 <div align="center">
-<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce">
+<a href="http://hdl.handle.net/10230/58086" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/DragonIce%20Preview.png" width="400" alt="DragonIce"></a>
 <p>
+<a href="http://hdl.handle.net/10230/58086" target="_blank">
+<img src="https://img.shields.io/badge/DOCUMENT-A580FA?style=for-the-badge&logo=github&logoColor=black">
+</a>
 <a href="https://youtu.be/hBnF9VRsook" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=8353F0">
 </a>
