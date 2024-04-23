@@ -38,7 +38,29 @@
     </a>
   </div>
 </div>
-</td>                                                            
+</td>
 </table>                                                                                 
-</div>
+
 <br>
+
+<table>
+<tr>
+<td width="50%">
+<div align="left">
+  <div style="display: inline-block; vertical-align: middle;">
+    <h3>
+      <a href="https://github.com/oscardelgado02/React-Foundations" target="_blank">
+        React Foundations
+      </a>
+    </h3>
+    <p>Self-learning project to gain knowledge about React basics.</p>
+  </div>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,js,html"/>
+    </a>
+  </div>
+</div>
+                                                                                      
+</td>
+</table>
