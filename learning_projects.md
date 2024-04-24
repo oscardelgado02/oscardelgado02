@@ -71,7 +71,7 @@
         Learn Next.js
       </a>
     </h3>
-    <p>Self-learning project to learn Next.js, a React framework.</p>
+    <p>Self-learning project to learn to build full-stack applications in Next.js, a React framework.</p>
   </div>
   <div align="center">
     <a href="https://skillicons.dev">
