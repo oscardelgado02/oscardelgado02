@@ -220,7 +220,7 @@
 <tr>
 <td width="50%">
 <h3 align="center">Twitter Lands<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,java,mysql" />
   </a><br></h3>
 <div align="center">
 <a href="https://github.com/oscardelgado02/Twitter-Lands" target="_blank"><img src="images/Twitter-Lands-Preview.png" width="400" alt="Twitter Lands"></a>
