@@ -22,7 +22,6 @@
 </td>
 
 <td width="50%">
-<br>
 <div align="left">
   <div style="display: inline-block; vertical-align: middle;">
     <h3>
@@ -62,5 +61,23 @@
   </div>
 </div>
                                                                                       
+</td>
+
+<td width="50%">
+<div align="left">
+  <div style="display: inline-block; vertical-align: middle;">
+    <h3>
+      <a href="https://github.com/oscardelgado02/Learn-Next.js" target="_blank">
+        Learn Next.js
+      </a>
+    </h3>
+    <p>Self-learning project to learn Next.js, a React framework.</p>
+  </div>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,js"/>
+    </a>
+  </div>
+</div>
 </td>
 </table>
