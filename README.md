@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,vscode,godot,cpp,c,git,github,py,pytorch,sklearn,tensorflow,html,css,js,ts,react,nextjs,tailwind,java,cmake,dotnet,clion,pycharm,anaconda,aws,bitbucket,eclipse,matlab,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,vscode,godot,cpp,c,git,github,py,pytorch,sklearn,tensorflow,html,css,js,ts,tailwind,react,nextjs,vercel,java,cmake,dotnet,clion,pycharm,anaconda,aws,bitbucket,eclipse,matlab,mysql" />
   </a>
 </p>
 
