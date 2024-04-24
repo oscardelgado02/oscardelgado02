@@ -75,7 +75,7 @@
   </div>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,js"/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts"/>
     </a>
   </div>
 </div>
