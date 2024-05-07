@@ -73,11 +73,36 @@
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
+
+<table>
+<tr>
+
+</table>
 
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">VR Prototype - Prospective Memory Training<br><br><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
+  </a><br></h3>
+<div align="center">                                       
+<a href="https://github.com/oscardelgado02/VR-Prototype---Prospective-Memory-Training" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Prospective%20Memory%20Training%20Virtual%20Reality.png" width="400" alt="VR Prototype - Prospective Memory Training"></a>
+<br>
+<p>
+<a href="https://github.com/oscardelgado02/VR-Prototype---Prospective-Memory-Training" target="_blank">
+<img src="https://img.shields.io/badge/CODE-8388F1?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=p_75nYF7GBM" target="_blank">
+<img src="https://img.shields.io/badge/VIDEO-535AF0?style=for-the-badge&logo=youtube&logoColor=black">
+</a>
+</p>
+</p>Virtual Reality prototype made in Unity to train prospective memory.</p>
+</div>
+
+</td>
+
+<td width="50%">
+<br>
 <h3 align="center">Build a rail<br><br><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
   </a><br></h3>
@@ -89,7 +114,7 @@
 </a>
 </p>
 <p>Build a rail is a full body interaction collaborative videogame which its main objective is removing all the obstacles from the path between the train and the next station and creating new rails to put them in the empty places. This Unity Project works in the Mixed Reality environment from UPF Barcelona.</p>
-</div>
+</div>                                                           
 </table>
 <br>
 
