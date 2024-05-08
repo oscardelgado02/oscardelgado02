@@ -81,7 +81,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<!-- <td width="50%">
 <h3 align="center">VR Prototype - Prospective Memory Training<br><br><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
   </a><br></h3>
@@ -98,8 +98,7 @@
 </p>
 </p>Virtual Reality prototype made in Unity to train prospective memory.</p>
 </div>
-
-</td>
+</td> -->
 
 <td width="50%">
 <br>
