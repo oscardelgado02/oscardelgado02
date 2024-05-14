@@ -81,6 +81,24 @@
 
 <table>
 <tr>
+<td width="50%">
+<h3 align="center">VR Unity Template<br><br><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
+  </a><br></h3>
+<div align="center">
+<a href="https://github.com/oscardelgado02/VR-Unity-Template" target="_blank"><img src="images/vr-Unity-Template/showdown/0_preview.PNG" width="400" alt="VR Unity Template"></a>
+<p>
+<a href="https://github.com/oscardelgado02/VR-Unity-Template" target="_blank">
+<img src="https://img.shields.io/badge/CODE-F182A9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>VR-Unity-Template is an open-source solution for kickstarting VR application development using Unity. This template leverages the <a href="https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html">XR Interaction Toolkit</a> and boasts UI support for VR, enhanced user teleportation, player collision with obstacles, physical emulated hands, and interactive doors!</p>
+</div>
+                                                                                      
+</td>
+</table>
+<table>
+<tr>
 <!-- <td width="50%">
 <h3 align="center">VR Prototype - Prospective Memory Training<br><br><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
@@ -293,47 +311,7 @@
 </p>
 </p>Unity Script to create and manage multiple timers.</p>
 </div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-### ⌨ Code templates
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">VR Unity Template<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
-  </a><br></h3>
-<div align="center">
-<a href="https://github.com/oscardelgado02/VR-Unity-Template" target="_blank"><img src="images/VR-Unity-Template-Preview.png" width="400" alt="VR Unity Template"></a>
-<p>
-<a href="https://github.com/oscardelgado02/VR-Unity-Template" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F182A9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Unity Template to start developing a VR application.</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-<br>
-<h3 align="center">CPP Solution For Visual Studio Code<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,vscode" />
-  </a><br></h3>
-<div align="center">                                       
-<a href="https://github.com/oscardelgado02/CPP-Solution-For-Visual-Studio-Code" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/CPP-Solution-For-Visual-Studio-Code-Preview.png" width="400" alt="CPP Solution For Visual Studio Code"></a>
-<br>
-<p>
-<a href="https://github.com/oscardelgado02/CPP-Solution-For-Visual-Studio-Code" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F182C7?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>A working solution for Visual Studio Code to start programming in C++.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
+</table>
 <br>
 
 ### 💾 Datasets
