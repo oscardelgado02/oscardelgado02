@@ -61,12 +61,9 @@
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
   </a><br></h3>
 <div align="center">                                       
-<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/AI%20NPC%20VR%20Preview.PNG" width="400" alt="AI NPC in VR Prototype"></a>
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/AI%20NPC%20VR%20Preview.PNG" width="400" alt="AI NPC in VR Prototype"></a>
 <br>
 <p>
-<a href="https://github.com/oscardelgado02/AI-NPC-in-VR-Prototype" target="_blank">
-<img src="https://img.shields.io/badge/CODE-8388F1?style=for-the-badge&logo=github&logoColor=black">
-</a>
 <a href="https://youtu.be/tXMaLYxqlgg" target="_blank">
 <img src="https://img.shields.io/badge/VIDEO-535AF0?style=for-the-badge&logo=youtube&logoColor=black">
 </a>
@@ -126,11 +123,8 @@
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
   </a><br></h3>
 <div align="center">
-<a href="https://github.com/oscardelgado02/Build-a-rail" target="_blank"><img src="images/Build-a-rail-Preview.png" width="400" alt="Build a rail"></a>
+<img src="images/Build-a-rail-Preview.png" width="400" alt="Build a rail"></a>
 <p>
-<a href="https://github.com/oscardelgado02/Build-a-rail" target="_blank">
-<img src="https://img.shields.io/badge/CODE-6BEFFC?style=for-the-badge&logo=github&logoColor=black">
-</a>
 </p>
 <p>Build a rail is a full body interaction collaborative videogame which its main objective is removing all the obstacles from the path between the train and the next station and creating new rails to put them in the empty places. This Unity Project works in the Mixed Reality environment from UPF Barcelona.</p>
 </div>                                                           
