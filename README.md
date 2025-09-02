@@ -191,12 +191,9 @@
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
   </a><br></h3>
 <div align="center">                                       
-<a href="https://github.com/oscardelgado02/SheepRescue-Mobile" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/SheepRescue-Mobile-Preview.png" width="400" alt="Sheep Rescue Mobile"></a>
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/SheepRescue-Mobile-Preview.png" width="400" alt="Sheep Rescue Mobile"></a>
 <br>
 <p>
-<a href="https://github.com/oscardelgado02/SheepRescue-Mobile" target="_blank">
-<img src="https://img.shields.io/badge/CODE-E3F05C?style=for-the-badge&logo=github&logoColor=black">
-</a>
 </p>
 </p>Sheep Rescue game (Introduction to Unity Scripting tutorial) adapted to mobile controls.</p>
 </div>                                                             
