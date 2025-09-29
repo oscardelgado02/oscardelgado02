@@ -77,7 +77,7 @@
 <tr>
 
 </table>
-
+<!--
 <table>
 <tr>
 <td width="50%">
@@ -92,10 +92,11 @@
 </a>
 </p>
 <p>VR-Unity-Template is an open-source solution for kickstarting VR application development using Unity. This template leverages the <a href="https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html">XR Interaction Toolkit</a> and boasts UI support for VR, enhanced user teleportation, player collision with obstacles, physical emulated hands, and interactive doors!</p>
-</div>
-                                                                                      
+</div>                                                                                 
 </td>
 </table>
+-->
+
 <table>
 <tr>
 <!-- <td width="50%">
@@ -205,6 +206,7 @@
 
 <table>
 <tr>
+<!--
 <td width="50%">
 <h3 align="center">Auto Speech Recorder For Unity<br><br><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
@@ -217,9 +219,9 @@
 </a>
 </p>
 <p>An easy to use tool to automatically detect and record speech in Unity.</p>
-</div>
-                                                                                      
+</div>                                                                                
 </td>
+-->
 
 <td width="50%">
 <br>
