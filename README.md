@@ -201,65 +201,6 @@
 </div>
 <br>
 
-### 🧠 Deep Learning
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Music Recommendation Bot<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,eclipse" />
-  </a><br></h3>
-<div align="center">
-<a href="https://github.com/oscardelgado02/Music-Recommendation-Bot" target="_blank"><img src="images/Music-Recommendation-Bot-Preview.png" width="400" alt="Music Recommendation Bot"></a>
-<p>
-<a href="https://github.com/oscardelgado02/Music-Recommendation-Bot" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F2C95A?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Natural Language Processing Chat Bot that can recommend the user songs depending on the user mood and favourite genres.</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-<br>
-<h3 align="center">Signal Detection and Classification DL Model<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,eclipse" />
-  </a><br></h3>
-<div align="center">                                       
-<a href="https://github.com/oscardelgado02/Signal-Detection-and-Classification-DL-Model" target="_blank"><img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Signal-Detection-and-Classification-DL-Model-Preview.png" width="400" alt="Signal Detection and Classification DL Model"></a>
-<br>
-<p>
-<a href="https://github.com/oscardelgado02/Signal-Detection-and-Classification-DL-Model" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F2B85A?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Deep Learning project that uses yolov5 to detect and classify traffic signals in videos.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-### 💻 Web development
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Twitter Lands<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,java,mysql" />
-  </a><br></h3>
-<div align="center">
-<a href="https://github.com/oscardelgado02/Twitter-Lands" target="_blank"><img src="images/Twitter-Lands-Preview.png" width="400" alt="Twitter Lands"></a>
-<p>
-<a href="https://github.com/oscardelgado02/Twitter-Lands" target="_blank">
-<img src="https://img.shields.io/badge/CODE-D8854C?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Twitter Lands is a web page project that is really similar to Twitter, but it is organized by countries and users can add events and recommendations to each country.</p>
-</div>
-</table>
-<br>
-
 ### 🛠 Unity Tools for development
 
 <table>
@@ -295,24 +236,6 @@
 </p>
 </p>Unity Script to create and manage multiple timers.</p>
 </div>                                                             
-</table>
-<br>
-
-### 💾 Datasets
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Face Dataset - 2400 IMG and 80 LABELS</h3>
-<div align="center">
-<a href="https://github.com/oscardelgado02/Face-Dataset---2400-IMG-and-80-LABELS" target="_blank"><img src="images/FaceDataset2400IMG80LABELS-Preview.png" width="400" alt="Face Dataset - 2400 IMG and 80 LABELS"></a>
-<p>
-<a href="https://github.com/oscardelgado02/Face-Dataset---2400-IMG-and-80-LABELS" target="_blank">
-<img src="https://img.shields.io/badge/LINK-E282F1?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Manually created and cropped dataset of 2400 images, 30 from each class, where each class is a famous person.</p>
-</div>
 </table>
 <br>
 
