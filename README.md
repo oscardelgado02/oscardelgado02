@@ -38,7 +38,7 @@
 <tr>
 <td width="50%">
 <h3 align="center">Artisan<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,github" />
+    <img src="https://skillicons.dev/icons?i=bash" />
   </a><br></h3>
 <div align="center">
 <a href="https://github.com/oscardelgado02/artisan" target="_blank"><img src="https://raw.githubusercontent.com/oscardelgado02/artisan/main/assets/wordmark.svg" width="280" alt="Artisan"></a>
@@ -86,7 +86,7 @@
 <td width="50%">
 <br>
 <h3 align="center">Artisan UML CLI<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js" />
   </a><br></h3>
 <div align="center">
 <a href="https://github.com/oscardelgado02/artisan-uml-cli" target="_blank"><img src="https://raw.githubusercontent.com/oscardelgado02/artisan-uml-cli/main/assets/wordmark.svg" width="280" alt="Artisan UML CLI"></a>
