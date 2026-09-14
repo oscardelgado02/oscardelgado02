@@ -32,6 +32,36 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Cool projects:
 
+### 🎨 Open source
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Artisan UML<br><br><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,html,css,vite" />
+  </a><br></h3>
+<div align="center">
+<a href="https://github.com/oscardelgado02/artisan-uml" target="_blank"><img src="https://raw.githubusercontent.com/oscardelgado02/artisan-uml/main/assets/editor.png" width="400" alt="Artisan UML"></a>
+<p>
+<a href="https://github.com/oscardelgado02/artisan-uml" target="_blank">
+<img src="https://img.shields.io/badge/CODE-F182A9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://artisan-uml.dev" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-20C997?style=for-the-badge&logo=safari&logoColor=black">
+</a>
+<a href="https://www.npmjs.com/package/artisan-uml" target="_blank">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+</a>
+<a href="https://artisan-uml.dev/docs/" target="_blank">
+<img src="https://img.shields.io/badge/DOCS-58A8FF?style=for-the-badge&logo=readme&logoColor=black">
+</a>
+</p>
+<p>Artisan UML is an open-source UML class-diagram editor built for fluid architecture design: click a <code>+</code>, type, link, done, and let the automatic layout take care of itself. It runs in the browser at <a href="https://artisan-uml.dev">artisan-uml.dev</a> and is published as the npm package <code>artisan-uml</code>.</p>
+</div>
+</td>
+</table>
+<br>
+
 ### 👓 XR experiences
 
 <table>
