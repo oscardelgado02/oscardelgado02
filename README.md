@@ -49,9 +49,6 @@
 <a href="https://oscardelgado02.github.io/artisan/" target="_blank">
 <img src="https://img.shields.io/badge/DOCS-58A8FF?style=for-the-badge&logo=readme&logoColor=black">
 </a>
-<a href="https://www.npmjs.com/package/artisan-uml-cli" target="_blank">
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-</a>
 </p>
 <p>Brings agentic workflows under control: you design the architecture in a living class diagram, your agent implements it, and every change (human or AI) is tracked in both directions. Ships slash-command packs for opencode, Claude Code and Codex.</p>
 </div>
@@ -67,11 +64,11 @@
 <a href="https://github.com/oscardelgado02/artisan-uml" target="_blank">
 <img src="https://img.shields.io/badge/CODE-F182A9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.npmjs.com/package/artisan-uml" target="_blank">
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-</a>
 <a href="https://oscardelgado02.github.io/artisan-uml/docs/" target="_blank">
 <img src="https://img.shields.io/badge/DOCS-58A8FF?style=for-the-badge&logo=readme&logoColor=black">
+</a>
+<a href="https://www.npmjs.com/package/artisan-uml" target="_blank">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </a>
 </p>
 <p>An open-source UML class-diagram editor built for fluid architecture design: click a <code>+</code>, type, link, done, and let the automatic layout take care of itself. Published as npm <code>artisan-uml</code>.</p>
