@@ -34,75 +34,15 @@
 
 ### 🎨 Open source
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Artisan<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash" />
-  </a><br></h3>
 <div align="center">
-<a href="https://github.com/oscardelgado02/artisan" target="_blank"><img src="https://raw.githubusercontent.com/oscardelgado02/artisan/main/assets/wordmark.svg" width="280" alt="Artisan"></a>
-<p>
-<a href="https://github.com/oscardelgado02/artisan" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F182A9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://oscardelgado02.github.io/artisan/" target="_blank">
-<img src="https://img.shields.io/badge/DOCS-58A8FF?style=for-the-badge&logo=readme&logoColor=black">
-</a>
-</p>
-<p>Brings agentic workflows under control: you design the architecture in a living class diagram, your agent implements it, and every change (human or AI) is tracked in both directions. Ships slash-command packs for opencode, Claude Code and Codex.</p>
-</div>
-</td>
+<a href="https://github.com/oscardelgado02/artisan"><img src="https://raw.githubusercontent.com/oscardelgado02/artisan/main/assets/wordmark.svg" width="280" alt="Artisan"></a>
 
-<td width="50%">
-<h3 align="center">Artisan UML<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,html,css,vite" />
-  </a><br></h3>
-<div align="center">
-<a href="https://github.com/oscardelgado02/artisan-uml" target="_blank"><img src="https://raw.githubusercontent.com/oscardelgado02/artisan-uml/main/assets/editor.png" width="400" alt="Artisan UML"></a>
-<p>
-<a href="https://github.com/oscardelgado02/artisan-uml" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F182A9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://oscardelgado02.github.io/artisan-uml/docs/" target="_blank">
-<img src="https://img.shields.io/badge/DOCS-58A8FF?style=for-the-badge&logo=readme&logoColor=black">
-</a>
-<a href="https://www.npmjs.com/package/artisan-uml" target="_blank">
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-</a>
-</p>
-<p>An open-source UML class-diagram editor built for fluid architecture design: click a <code>+</code>, type, link, done, and let the automatic layout take care of itself. Published as npm <code>artisan-uml</code>.</p>
-</div>
-</td>
-</tr>
-</table>
-<br>
+- **[Artisan](https://github.com/oscardelgado02/artisan)** ([docs](https://oscardelgado02.github.io/artisan/)) — Brings agentic workflows under control: you design the architecture in a living class diagram, your agent implements it, and every change (human or AI) is tracked in both directions. Ships slash-command packs for opencode, Claude Code and Codex.
+- **[Artisan UML](https://github.com/oscardelgado02/artisan-uml)** ([docs](https://oscardelgado02.github.io/artisan-uml/docs/), [npm](https://www.npmjs.com/package/artisan-uml)) — An open-source UML class-diagram editor built for fluid architecture design: click a `+`, type, link, done, and let the automatic layout take care of itself.
+- **[Artisan UML CLI](https://github.com/oscardelgado02/artisan-uml-cli)** ([docs](https://oscardelgado02.github.io/artisan-uml-cli/), [npm](https://www.npmjs.com/package/artisan-uml-cli)) — A zero-dependency CLI connecting the editor to agentic workflows: scans C# into a diagram, reports your design changes to the agent (renames as renames, notes honored), and tracks every change.
 
-<table>
-<tr>
-<td width="50%">
-<br>
-<h3 align="center">Artisan UML CLI<br><br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js" />
-  </a><br></h3>
-<div align="center">
-<a href="https://github.com/oscardelgado02/artisan-uml-cli" target="_blank"><img src="https://raw.githubusercontent.com/oscardelgado02/artisan-uml-cli/main/assets/wordmark.svg" width="280" alt="Artisan UML CLI"></a>
-<p>
-<a href="https://github.com/oscardelgado02/artisan-uml-cli" target="_blank">
-<img src="https://img.shields.io/badge/CODE-F182A9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://oscardelgado02.github.io/artisan-uml-cli/" target="_blank">
-<img src="https://img.shields.io/badge/DOCS-58A8FF?style=for-the-badge&logo=readme&logoColor=black">
-</a>
-<a href="https://www.npmjs.com/package/artisan-uml-cli" target="_blank">
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-</a>
-</p>
-<p>A zero-dependency CLI connecting the editor to agentic workflows: scans C# into a diagram, reports your design changes to the agent (renames as renames, notes honored), and tracks every change. Published as npm <code>artisan-uml-cli</code>.</p>
+<img src="images/artisan/artisan-social-card.png" width="80%" alt="Artisan social card">
 </div>
-</td>
-</tr>
-</table>
 <br>
 
 ### 👓 XR experiences
